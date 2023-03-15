@@ -1,0 +1,15 @@
+.primary{
+    background-color: black;
+    color: rgb(14, 201, 189);
+    text-align: center;
+}
+.mid{
+    background-color: black;
+    color: rgb(222, 13, 79);
+    text-align: center;
+}
+.end{
+    background-color: black;
+    color: rgb(250, 240, 37);
+    text-align: center;
+}
