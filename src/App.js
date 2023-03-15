@@ -27,6 +27,7 @@ import Counter from "./Component/Counter"
 
 // //import Hello from './Component/Hello'
  function App() {
+  console.log9('test')
   return (
     <div>
 {/* //     <Hello /> */}
